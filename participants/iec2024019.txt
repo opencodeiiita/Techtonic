@@ -2,5 +2,5 @@ Name: arjun deshwal
 Roll Number: iec2024019
 Hobbies: music, chess
 Github ID: ArjunDeshwal
-Tech Parent: vaibhav tiwari
+Tech Parent: vaibhav tiwari sir
 Favorite Society: geekhaven
