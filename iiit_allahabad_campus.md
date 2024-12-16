@@ -1,4 +1,1 @@
-# IIIT Allahabad Campus
-
-![Scenic View of IIIT Allahabad](Basketball%20Court.jpg)
-
+![Basketball Court](basketball_court.jpg)
