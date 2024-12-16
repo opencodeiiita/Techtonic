@@ -47,7 +47,7 @@ Here are some helpful resources to learn the basics of Git:
 ## 💬 **Need Help?**  
 Feel free to reach out for assistance:  
 
-- 📧 **Contact Email:** [iit2023098@iiita.ac.in](mailto:iit2023098@iiita.ac.in)  
+- 📧 **Contact Email:** [iit2023098@iiita.ac.in](mailto:iit2023098@iiita.ac.in)/[iec2023011@iiita.ac.in](mailto:iec2023011@iiita.ac.in)   
 - 💬 **Join the Discussion:** [**Discord Server**](https://discord.gg/bnGquU7C)  
 
 ---
