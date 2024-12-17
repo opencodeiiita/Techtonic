@@ -1,6 +1,0 @@
-Name: your name
-Roll Number: your enrollment number
-Hobbies: your hobbies
-Github ID: your github id
-Tech Parent: your tech-parent
-Favorite Society: your fav soc
