@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>OPENCODE</title>
-</head>
-<body>
-<h1>Details</h1>
-<p><strong>Name:</strong> Shaurya Raj mallick </p>
-<p><strong>Roll Number:</strong> IIT2024250 </p>
-<p><strong>Hobbies:</strong> Sleep </p>
-<p><strong>Github ID:</strong> shaurpro </p>
-<p><strong>Tech Parent:</strong> Satyam Naman sir </p>
-<p><strong>Favorite Society:</strong> Rangtarangini </p>
-
-</body>
-</html>
+Name:shaurya raj mallick
+Roll Number:IIT2024250
+Hobbie:sleep sleep sleep
+Github ID:shaurpro
+Tech Parent:Satyam naman sir
+Favourite society:Rangtarangini
