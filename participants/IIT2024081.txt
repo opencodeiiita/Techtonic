@@ -1,6 +1,0 @@
-Name: Sudhanshu
-Roll Number: IIT2024081
-Hobbies: Chess
-Github ID: sahsudhanshu
-Tech Parent: Suhbansh
-Favorite Society: GeekHaven
