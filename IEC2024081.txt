@@ -1,0 +1,2 @@
+github repo: https://github.com/HGRgamer/GuessTheNumber
+github pages: https://hgrgamer.github.io/GuessTheNumber
