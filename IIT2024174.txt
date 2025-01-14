@@ -1,0 +1,2 @@
+Website Link: https://goddbott.github.io/Number-Guessing/
+Github Repo Link: https://github.com/Goddbott/Number-Guessing
