@@ -1,0 +1,2 @@
+Game Link: https://phox-9.github.io/numberguessinggame/
+Repo Link: https://github.com/PHOX-9/numberguessinggame
